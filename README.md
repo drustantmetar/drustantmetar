@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **drustant.metar@gmail.com**
 
-- 📄 Know about my experiences [#Resume](#Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1cwRi8QR46j0fmi18wtx9dOP8R_-lUjVz/view?usp=drive_link]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

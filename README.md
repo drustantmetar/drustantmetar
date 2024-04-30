@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drustantmetar&label=Profile%20views&color=0e75b6&style=flat" alt="drustantmetar" /> </p>
 
-<p align=""left><b> I am certified as a data Analyst at Trainity </b></p>
+<p align=""left><b> I am certified as a Data Analyst at Trainity </b></p>
 **Data Analyst**
 
 - 👨‍💻 All of my projects are available at [https://drive.google.com/file/d/1i1aVOTkRWbcfoapM4MnzqEaXYW8uqaPz/view?usp=drive_link](https://drive.google.com/file/d/1i1aVOTkRWbcfoapM4MnzqEaXYW8uqaPz/view?usp=drive_link)
